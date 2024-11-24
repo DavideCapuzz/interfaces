@@ -1,0 +1,7 @@
+nav_msgs/Path path
+---
+std_msgs/String status
+geometry_msgs/Point position
+---
+std_msgs/String status
+geometry_msgs/Point position
